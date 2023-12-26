@@ -10,15 +10,24 @@
     color: white;
 }
 
-.nav-logo {
+.nav-logo{
     height: 50px;
-    width: 100px;
+    width:100px;
 }
 
 
-.logo {
+.logo{
     background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
-    width: 100%;
+    width: 100px;
+
+}
+
+.border {
+    border: 2px solid transparent;
+}
+
+.border:hover {
+    border: 2px solid white;
 }
