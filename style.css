@@ -226,15 +226,20 @@ footer{
     height: 500px;
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 ul{
     margin-top: 20px;
 }
 
+ul p{
+    font-size: 1.1rem;
+}
+
 ul a{
     display: block;
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     margin-top: 10px;
     color: #dddddd;
 }
@@ -256,4 +261,23 @@ ul a{
     height: 50px;
     width: 100px;
 
+}
+.foot-panel4{
+    background-color: #0f1111;
+    color: white;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.pages{
+    padding-top: 25px;
+}
+
+.copyright{
+    padding-top: 5px;
+   
 }
