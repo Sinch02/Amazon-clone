@@ -1,8 +1,7 @@
 # Amazon-clone
-This is a clone of the Amazon shopping website built using HTML and CSS.
-
-Features
-Homepage
+#This is a clone of the Amazon shopping website built using HTML and CSS.
+#Features 
+#Homepage
 Product listing pages
 Product detail pages
 Shopping cart
